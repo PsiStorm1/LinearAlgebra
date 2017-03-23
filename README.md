@@ -1,1 +1,1 @@
-# LinearAlgebra
+# This is a project intended to solve basic linear algebra operations.
